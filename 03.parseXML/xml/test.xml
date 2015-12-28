@@ -1,0 +1,42 @@
+<root>
+	<row>
+		<prid>1</prid>
+		<product>Name 1</product>
+		<category>Cat 1</category>
+		<price>22</price>
+		<qty>2</qty>
+		<sum>44</sum>
+	</row>
+	<row>
+		<prid>2</prid>
+		<product>Name 2</product>
+		<category>Cat 1</category>
+		<price>10</price>
+		<qty>2</qty>
+		<sum>22</sum>
+	</row>
+	<row>
+		<prid>3</prid>
+		<product>Name 3</product>
+		<category>Cat 2</category>
+		<price>12</price>
+		<qty>1</qty>
+		<sum>12</sum>
+	</row>
+	<row>
+		<prid>4</prid>
+		<product>Name 4</product>
+		<category>Cat 1</category>
+		<price>22</price>
+		<qty>10</qty>
+		<sum>220</sum>
+	</row>
+	<row>
+		<prid>3</prid>
+		<product>Name 3</product>
+		<category>Cat 2</category>
+		<price>12</price>
+		<qty>3</qty>
+		<sum>36</sum>
+	</row>
+</root>

@@ -1,0 +1,10 @@
+
+h1 {
+    color: coral;
+}
+body {
+    background-color: antiquewhite;
+}
+table, td, tr, tbody{
+    border: 1px solid black;
+}

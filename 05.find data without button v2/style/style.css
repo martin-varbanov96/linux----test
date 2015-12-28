@@ -1,0 +1,22 @@
+
+h1 {
+    color: coral;
+}
+body {
+    background-color: antiquewhite;
+}
+.match{
+    background: 1px solid black;
+    width: 500px;
+    display: block;
+}
+.element{
+    width: 500px;
+    height: 200px;
+    border-radius: 5px;
+    background-color: darkgreen;
+    padding: 3px;
+    margin: 10px;
+    color: whitesmoke;
+    display: none;
+}
